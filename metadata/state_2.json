@@ -1,0 +1,14 @@
+{
+	  "name": "Heroes DNFT Third Status",
+    "heroe": "Iron Man Zombie Mode ",
+    "description": "Dynamic NFT About Heroes", 
+    "external_url": "https://github.com/alframirez", 
+    "image": "https://ipfs.io/ipfs/QmSzDXwPVjpDeAWEPyA1jxZri3aauPffcvcxHycoUAHe1c?filename=3.jpg",     
+    "attributes": [ 
+		{
+            "trait-type": "Status",
+            "value": "Third"
+        }
+    ] 
+  }
+  

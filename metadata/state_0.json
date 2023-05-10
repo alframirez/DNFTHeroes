@@ -1,0 +1,14 @@
+{
+	"name": "Heroes DNFT First Status",
+    "heroe": "Spiderman Unmasked ",
+    "description": "Dynamic NFT About Heroes", 
+    "external_url": "https://github.com/alframirez", 
+    "image": "https://ipfs.io/ipfs/QmaqVBptoM1GgyJ41FqfDwfvbTER8BMTsZXvCbLw9i8X8Q?filename=1.jpg",     
+    "attributes": [ 
+		{
+            "trait-type": "Status",
+            "value": "First"
+        }
+    ] 
+  }
+  

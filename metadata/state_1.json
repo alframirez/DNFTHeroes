@@ -1,0 +1,14 @@
+{
+	  "name": "Heroes DNFT Second Status",
+    "heroe": "Batman in Armor Suit",
+    "description": "Dynamic NFT About Heroes", 
+    "external_url": "https://github.com/alframirez", 
+    "image": "https://ipfs.io/ipfs/QmZa7AokVEEHW4qHbTcoZT77qCVnQsu5PETS4gtDVRazGK?filename=2.jpg",     
+    "attributes": [ 
+		{
+            "trait-type": "Status",
+            "value": "Second"
+        }
+    ] 
+  }
+  
